@@ -14,7 +14,7 @@
 [![Status](https://img.shields.io/badge/Status-Active-22C55E?style=flat-square)]()
 [![Made with](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-EF4444?style=flat-square)]()
 
-[English](README.md) · [Español](docs/README.es.md) · [Português](docs/README.pt.md) · [Deutsch](docs/README.de.md) · [日本語](docs/README.ja.md)
+[English](README.md) · [Español](docs/README.es.md) · [Português](docs/README.pt.md) · [Deutsch](docs/README.de.md) · [日本語](docs/README.ja.md) · [中文](docs/README.zh.md)
 
 </div>
 
@@ -142,7 +142,8 @@ rewind-bulk-creator/
     ├── README.es.md
     ├── README.pt.md
     ├── README.de.md
-    └── README.ja.md
+    ├── README.ja.md
+    └── README.zh.md
 ```
 
 ## Notes & limitations

@@ -12,7 +12,7 @@
 [![受信箱](https://img.shields.io/badge/%E5%8F%97%E4%BF%A1%E7%AE%B1-mail.tm-06B6D4?style=flat-square)](https://mail.tm/)
 [![ステータス](https://img.shields.io/badge/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%BF%E3%82%B9-%E6%9C%89%E5%8A%B9-22C55E?style=flat-square)]()
 
-[English](../README.md) · [Español](README.es.md) · [Português](README.pt.md) · [Deutsch](README.de.md) · [日本語](README.ja.md)
+[English](../README.md) · [Español](README.es.md) · [Português](README.pt.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [中文](README.zh.md)
 
 </div>
 

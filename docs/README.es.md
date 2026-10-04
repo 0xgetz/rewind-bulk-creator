@@ -12,7 +12,7 @@
 [![Buzones](https://img.shields.io/badge/Buzones-mail.tm-06B6D4?style=flat-square)](https://mail.tm/)
 [![Estado](https://img.shields.io/badge/Estado-Activo-22C55E?style=flat-square)]()
 
-[English](../README.md) · [Español](README.es.md) · [Português](README.pt.md) · [Deutsch](README.de.md) · [日本語](README.ja.md)
+[English](../README.md) · [Español](README.es.md) · [Português](README.pt.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [中文](README.zh.md)
 
 </div>
 
